@@ -3,5 +3,5 @@ Welds Swedish / svetsar Svenska
 
 # Start :
 ```lua
-local lol = print("man")
+Svets:Skapa(<Svetsen>,<Kropsdelen>,<hatten>,<Numer>,<Numer>,<Numer>)
 ```
