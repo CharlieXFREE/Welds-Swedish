@@ -6,4 +6,4 @@ Welds Swedish / svetsar Svenska
 ```lua
 Svets:Skapa(<Svets>,<Kropsdel>,<hatt>,<N>,<N>,<N>)
 ```
-}. Skapar en Svets
+}, Skapar en Svets
