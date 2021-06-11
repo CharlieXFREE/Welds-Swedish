@@ -3,5 +3,5 @@ Welds Swedish / svetsar Svenska
 
 # Start :
 ```lua
-Svets:Skapa(<Svetsen>,<Kropsdelen>,<hatten>,<Numer>,<Numer>,<Numer>)
+Svets:Skapa(<Svets>,<Kropsdel>,<hatt>,<N>,<N>,<N>)
 ```
