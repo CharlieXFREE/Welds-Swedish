@@ -14,7 +14,7 @@ Svets:Config(<Svets>,<Kropsdel>,<hatt>,<N>,<N>,<N>)
 # Steg 3,
 Om du vill ta bort en mask från ett object då gör du så här
 ```lua
-Svets:TaBortMask(<Svets>)
+ Svets:TaBortMask(<Hatt>)
 ```
 # Steg 4, 
 åter-Position och Rotation åter positionera eller rotera ett object igen
