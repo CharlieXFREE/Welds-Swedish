@@ -9,7 +9,7 @@ local <Namn> = svets
 # Steg 2, 
 Om du vill configurera Svetsen så gör du så här
 ```lua
-Svets:Config(<Svets>,<Kropsdel>,<hatt>,<X>,<Y>,<Z>)
+Svets:Config(<Svets>,<Kropsdel>,<Hatt>,<X>,<Y>,<Z>)
 ```
 # Steg 3,
 Om du vill ta bort en mask från ett object då gör du så här
@@ -19,10 +19,10 @@ Om du vill ta bort en mask från ett object då gör du så här
 # Steg 4, 
 åter-Position och Rotation åter positionera eller rotera ett object igen
 ```lua
-Svets:PosRot(<weld>,<X>,<Y>,<Z>,Rot,<Y>,<Z>,<X>)
+Svets:PosRot(<weld>,<X>,<Y>,<Z>,Rot,<Y.Rot>,<Z.Rot>,<X.Rot>)
 ```
 # Steg 5, 
-åter-Position och Rotation åter positionera eller rotera ett object igen
+KnapTryck känna av om spelaren Trycker På en viss Knap på TangentBordet
 ```lua
 Knap.KeyDown:connect(function(knap)
 				if knap == <knap> then
