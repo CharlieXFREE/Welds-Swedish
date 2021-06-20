@@ -31,7 +31,7 @@ Knap.KeyDown:connect(function(knap)
 				end)
 ```
 # Steg 5, 
-väntning function väntar så många secunder som du lägger i <Numer> exempel: 1 :eller: 0.1: 
+Väntnings function väntar så många secunder som du lägger i <Numer> exempel: 1 :eller: 0.1: 
 ```lua
 w(<Numer>)
 ```
