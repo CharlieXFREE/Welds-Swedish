@@ -24,14 +24,39 @@ Svets:PosRot(<weld>,<X>,<Y>,<Z>,Rot,<Y.Rot>,<Z.Rot>,<X.Rot>)
 # Steg 5, 
 KnapTryck känna av om spelaren Trycker På en viss Knap på TangentBordet
 ```lua
-Knap.KeyDown:connect(function(knap)
-				if knap == <knap> then
+Knapp.KeyDown:connect(function(knapp)
+				if knap == <knapp> then
 				   
 				    end
 				end)
 ```
-# Steg 5, 
+# Steg 6, 
 Väntnings function väntar så många secunder som du lägger i <Numer> exempel: 1 :eller: 0.1: 
 ```lua
-w(<Numer>)
+wait(<Numer>)
 ```
+# Steg 7,
+Animationer gör en animation
+
+# Steg 8,
+lär dig mer om lua
+
+# Steg 9,
+gör en script	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
